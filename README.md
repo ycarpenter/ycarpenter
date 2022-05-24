@@ -1,8 +1,10 @@
 <h1 align="center">💫 About Me : </h1>
 
-    I like to set and achieve difficult goals, to create something new and useful.  Previously, it was organization and launch of restaurants, which included selection of location, marketing, building of the team.
+    I like to set and achieve difficult goals, to create something new and useful.  
+    Previously, it was organization and launch of restaurants, which included selection of location, marketing, building of the team.
 
-    Now I’m progressing in the development of web applications. It is impossible to deny that already now users are making their choice in favor of tools with information updating in real time, rather than statistical software solutions.
+    Now I’m progressing in the development of web applications.  
+    It is impossible to deny that already now users are making their choice in favor of tools with information updating in real time, rather than statistical software solutions.
     
 <br>
 
@@ -11,6 +13,7 @@
 <div style="text-align: center">
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/ycarpenter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/y-carpenter) 
+
 </div>
 <br>
 
