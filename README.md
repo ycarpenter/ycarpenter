@@ -37,7 +37,7 @@
 
 <h1 align="center">💫 Education / Courses</h1>
 
-> ## [JavaScript/Front-end](https://rs.school/js/) (2022)
+> ## [JavaScript/Front-end](https://github.com/rolling-scopes-school/tasks/blob/master/roadmap.md) (2022)
 > ### The Rolling Scopes 
 
 <br>
