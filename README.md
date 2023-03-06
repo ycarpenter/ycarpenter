@@ -11,15 +11,6 @@
     
 <br>
 
-<h1 align="center">🌐 Socials</h1>
-
-<div style="text-align: center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/ycarpenter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/y-carpenter) 
-
-</div>
-<br>
-
 <h1 align="center">💻 Tech Stack</h1>
 <div style="text-align: center">
 
