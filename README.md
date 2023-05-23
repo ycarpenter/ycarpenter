@@ -48,8 +48,6 @@ I prefer working in military-tech development.
 <h1 align="center">📊 GitHub Stats :</h1>
 <div style="text-align: center">
 
-![](https://github-readme-stats.vercel.app/api?username=ycarpenter&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ycarpenter&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ycarpenter&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
