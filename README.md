@@ -1,8 +1,8 @@
 <h1>💫 About Me : </h1>
 
-Experienced front-end developer with 1.5 years of experience building responsive websites and web apps. Proficient with CSS and JS Frameworks (e.g., SCSS, Emotion, MUI, React).
+Passionate about innovation and problem-solving, I consistently seek opportunities to expand my professional horizons. These opportunities range from entrepreneurial initiatives to technology solutions. My entrepreneurial spirit first found expression through strategically organizing and launching restaurants. This role required meticulous location selection, effective marketing strategies, and the creation of high-performing teams.
 
-I prefer working in military-tech development.
+Having 1.5 years of experience as a front-end developer, I've refined my skills in developing responsive websites and web applications. I specialize in HTML, CSS, and various JS Frameworks, including TailwindCSS, React, and Next.js. I'm committed to devising and implementing cutting-edge, practical digital solutions that align with user requirements and business objectives.
 
 <br>
 
